@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainService", "MainService\MainService.csproj", "{A4673B84-E94E-4D7D-915E-10DD5F7E05F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisConnector", "RedisConnector\RedisConnector.csproj", "{AA59622F-1B77-4BA9-8DE3-448D60460B68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A4673B84-E94E-4D7D-915E-10DD5F7E05F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4673B84-E94E-4D7D-915E-10DD5F7E05F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4673B84-E94E-4D7D-915E-10DD5F7E05F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA59622F-1B77-4BA9-8DE3-448D60460B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA59622F-1B77-4BA9-8DE3-448D60460B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA59622F-1B77-4BA9-8DE3-448D60460B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA59622F-1B77-4BA9-8DE3-448D60460B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
